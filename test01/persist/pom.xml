@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>persist</artifactId>
-
+<!-- haha -->
     <dependencies>
         <dependency>
             <groupId>com.liujian.test01</groupId>
